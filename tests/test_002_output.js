@@ -1,1 +1,0 @@
-alert("HELLO_FROM_BAZIS");

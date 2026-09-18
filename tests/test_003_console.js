@@ -1,1 +1,0 @@
-console.log("HELLO_CONSOLE_FROM_BAZIS");
