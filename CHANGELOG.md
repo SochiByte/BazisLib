@@ -10,8 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Инициализация проекта
 - Документация реверс-инжиниринга БАЗИС-Мебельщика (18 фактов)
-- Исследовательские программы (probes)
-- Прототипы доступа к объектам (scripts)
+- Исследовательские программы (probes, scripts)
+- Исследования скриптового движка БАЗИС 2026
 
 ## [0.1.0] - 2026-09-18
 
@@ -19,3 +19,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Первый публичный релиз
 - Базовая структура проекта
 - Исследования скриптового движка БАЗИС 2026
+- Реверс-инжиниринг `ScriptEditor.dll` через Ghidra
